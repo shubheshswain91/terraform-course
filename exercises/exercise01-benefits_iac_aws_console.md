@@ -40,6 +40,6 @@ Congratulations on successfully completing this challenging exercise! You've man
 
 ## Output
 
-![Screenshot](Images/ex-1-rt.png)
+![Screenshot](/Images/ex-1-rt.png)
 
-![Screenshot](Images/ex-1-rt-2.png)
+![Screenshot](/Images/ex-1-rt-2.png)
