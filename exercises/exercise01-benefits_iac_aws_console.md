@@ -38,4 +38,8 @@ If you wish to give it a shot before looking at the detailed step-by-step and th
 
 Congratulations on successfully completing this challenging exercise! You've manually built a VPC-subnet infrastructure on the AWS Console, and this hands-on experience has given you valuable insight into the process and complexity of creating and managing infrastructure. We hope this exercise has helped you appreciate the benefits of Infrastructure as Code (IaC) in automating these tasks and maintaining consistency across environments. Keep up the great work!
 
-Done
+## Output
+
+![Screenshot](Images/ex-1-rt.png)
+
+![Screenshot](Images/ex-1-rt-2.png)
